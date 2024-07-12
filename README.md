@@ -1,4 +1,14 @@
 # powderdissolution
 How to dissolve nutritional powders
 
-Add to cup 7/9 full. let sit 30 sec, stir with normal fork around 40 seconds, keep fork in 2 minutes. Remove fork. Drink. 
+Add to cup 7/9 full. 
+
+Let sit 30 sec
+
+Stir with normal fork around 40 seconds, then remove fork & wait 85 seconds
+
+Stir with normal fork around 40 seconds, then keep fork in & wait 120 seconds
+
+Drink :: do so in 2 sips in short succession, then wait 5-10 seconds : then lithegulp :  then wait 5 5-10 seconds & drink until satiated in 1 sip
+
+github.com/aqxiy/lithegulp
