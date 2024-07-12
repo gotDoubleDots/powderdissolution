@@ -13,4 +13,4 @@ Drink :: do so in 2 sips in short succession, then wait 5-10 seconds : then lith
 
 github.com/aqxiy/lithegulp
 
-Good resuilt with Nutricost Protein Concentrate @ 2:50 PM CDT
+Good resuilt with Nutricost Whey Protein Concentrate Vanilla @ 2:50 PM CDT
